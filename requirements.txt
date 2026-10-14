@@ -1,0 +1,5 @@
+streamlit>=1.40
+pandas>=2.0
+# AI 추출을 쓸 때만 필요 (없으면 정규식으로 동작)
+anthropic>=1.0
+pydantic>=2.0
